@@ -38,6 +38,12 @@ modules:
         install:
           - org.mozilla.firefox
           - org.gnome.Loupe
+          - com.valvesoftware.Steam
+          - com.surfshark.Surfshark
+          - md.obsidian.Obsidian
+          - org.videolan.VLC
+          - us.zoom.Zoom
+          - org.videolan.VLC
       
       # Ensure the user repo is explicitly enabled for your own installs later
       - scope: user
