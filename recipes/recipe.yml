@@ -44,6 +44,7 @@ modules:
           - org.videolan.VLC
           - us.zoom.Zoom
           - org.videolan.VLC
+          - io.github.Qalculate
       
       # Ensure the user repo is explicitly enabled for your own installs later
       - scope: user
