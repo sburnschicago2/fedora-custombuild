@@ -45,6 +45,8 @@ modules:
           - us.zoom.Zoom
           - org.videolan.VLC
           - io.github.Qalculate
+          - com.obsproject.Studio/x86_64/stable
+          
       
       # Ensure the user repo is explicitly enabled for your own installs later
       - scope: user
