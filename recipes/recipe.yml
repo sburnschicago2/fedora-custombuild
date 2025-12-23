@@ -46,6 +46,7 @@ modules:
           - org.videolan.VLC
           - io.github.Qalculate
           - com.obsproject.Studio/x86_64/stable
+          - com.github.tchx84.Flatseal
           
       
       # Ensure the user repo is explicitly enabled for your own installs later
